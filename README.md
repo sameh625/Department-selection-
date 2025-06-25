@@ -21,3 +21,9 @@ A Java Swing application for student registration and department selection, with
 
 - **Username:** admin
 - **Password:** admin
+
+
+
+## Contributors
+- [Sameh](https://github.com/sameh625)
+- [Hamza](https://github.com/farghalii)
